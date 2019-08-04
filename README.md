@@ -11,3 +11,13 @@ Looking for the best place to start, by chance, I ended up reading the [release 
 > If you are looking for a more fast paced introduction to the language, see the [How I Start: Elixir](http://howistart.org/posts/elixir/1/index.html) tutorial, which has also been brought to the latest and greatest.
 
 And that was exactly what I was looking for.
+
+## Flashcards
+
+I'm tracking my progress also in a set of Anki flashcards that you can get as a [shared deck](https://ankiweb.net/shared/info/1842975462).
+
+The [Anki manual](https://apps.ankiweb.net/docs/manual.html) is a great place to start also for learning more about flashcards.
+
+I'm also using the [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) app synced via AnkiWeb to review my card and keep all in sync.
+
+Only the sharing is a manual process that I need to do every now and then to resync my deck with the shared one.
